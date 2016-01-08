@@ -26,3 +26,12 @@
     /*background: url(../images/skills-back.png) no-repeat 0 0;*/
     color: #333;
 }
+.buffer{
+    margin-bottom: 20px
+}
+.panel-see{
+    background-color: rgba(252,248,227,.18);
+}
+.text-center{
+    text-align: center;
+}
