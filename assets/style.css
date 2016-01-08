@@ -46,3 +46,12 @@
 .text-white{
     color: cornsilk
 }
+.icon-course-topic-title {
+    font-size: 11px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+    color: #fff;
+    line-height: 1.8em;
+}
