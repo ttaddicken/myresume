@@ -55,3 +55,30 @@
     color: #fff;
     line-height: 1.8em;
 }
+.icon-course-topic-container {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+}
+i.icon-custom {
+    color: #555;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    text-align: center;
+    display: inline-block;
+    border: solid 1px #555;
+}
+.icon-course-topic {
+    width: 45px!important;
+    height: 45px!important;
+    font-size: 20px!important;
+    margin-right: .3em;
+    font-style: normal;
+    line-height: 50px!important;
+}
+.image{
+  background-size: 400px 
+}
