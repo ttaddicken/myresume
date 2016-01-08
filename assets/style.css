@@ -35,3 +35,10 @@
 .text-center{
     text-align: center;
 }
+.panel-set{
+    position: fixed !important;
+    left:0;
+    top: 0;
+    bottom: 0;
+   
+}
