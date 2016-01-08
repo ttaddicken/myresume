@@ -1,0 +1,28 @@
+.contact{
+        border: 3px solid;
+/*      margin: 0 auto; */
+/*        text-align: left;*/
+        background-color: rgb(109,192,249)  
+        }
+.pic-left{
+    float:left;
+    margin-right:20px;
+        }
+.section{
+    border: 1px solid;
+    width:162;
+    margin: 0 left;
+    text-align: center;
+    background-color: rgb(109,192,249);
+	color: #fff
+        }
+.test {
+    line-height: 38px;
+    padding: 0 15px 0 40px;
+    text-shadow: 0 1px 0 #fff;
+    position: relative;
+    display: block;
+    height: 38px;
+    /*background: url(../images/skills-back.png) no-repeat 0 0;*/
+    color: #333;
+}
