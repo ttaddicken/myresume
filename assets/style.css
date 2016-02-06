@@ -61,7 +61,7 @@
     position: relative;
 }
 i.icon-custom {
-    color: #555;
+    color: white;
     width: 40px;
     height: 40px;
     font-size: 20px;
@@ -81,4 +81,16 @@ i.icon-custom {
 }
 .image{
   background-size: 400px 
+}
+icon-color-light {
+    color: #fff;
+    border: solid 1px #fff;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
